@@ -79,6 +79,7 @@ const LoginPage = () => {
           name="email"
           value={form.email}
           />
+          <br />
         <label htmlFor="password">password</label>
         <br />
         <Input_form
